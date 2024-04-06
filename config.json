@@ -1,0 +1,11 @@
+{
+    "openai_api": {
+        "model": "gpt-4-turbo-preview",
+        "content_tokens": 4096,
+        "summary_tokens": 1024,
+        "temperature": 0.5
+    },
+    "article_settings": {
+        "output_file_extension": "txt"
+    }
+}
